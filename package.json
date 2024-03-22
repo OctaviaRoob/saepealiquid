@@ -1,0 +1,66 @@
+{
+  "name": "saepealiquid",
+  "description": "Feature-rich autocomplete component for Vue.js",
+  "version": "1.0.0",
+  "author": "DemarioHalvorson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OctaviaRoob/saepealiquid.git"
+  },
+  "homepage": "https://github.com/OctaviaRoob/saepealiquid.git",
+  "bugs": {
+    "url": "https://github.com/OctaviaRoob/saepealiquid.git/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "et",
+    "officiis",
+    "Autocomplete",
+    "Suggest",
+    "possimus",
+    "REST",
+    "Search",
+    "voluptatum",
+    "sequi",
+    "odit",
+    "cum",
+    "component",
+    "hello to tag readers",
+    "feature-rich",
+    "reiciendis",
+    "occaecati",
+    "voluptate",
+    "labore",
+    "eligendi",
+    "itaque",
+    "JS"
+  ],
+  "peerDependencies": {
+    "vue": "^2.5.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "copy-webpack-plugin": "^4.5.1",
+    "core-js": "^2.5.3",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.4",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.0.6",
+    "markdown-styles": "^3.1.10",
+    "vue-loader": "^14.2.1",
+    "vue-template-compiler": "^2.5.0",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.8",
+    "webpack-dev-server": "^3.1.0",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
